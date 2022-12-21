@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\refint\tip-donusumleri.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\tip-donusumleri\obj\Debug\net7.0\ref\tip-donusumleri.dll
