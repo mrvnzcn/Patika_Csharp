@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\refint\hata-yonetimi.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hata-yonetimi\obj\Debug\net7.0\ref\hata-yonetimi.dll
