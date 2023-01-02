@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\bin\Debug\net7.0\forloopdongu.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\bin\Debug\net7.0\forloopdongu.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\bin\Debug\net7.0\forloopdongu.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\bin\Debug\net7.0\forloopdongu.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\bin\Debug\net7.0\forloopdongu.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\refint\forloopdongu.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\forloopdongu.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\forloopdongu\obj\Debug\net7.0\ref\forloopdongu.dll
