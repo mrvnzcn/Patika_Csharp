@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "diziler-array-sinifi-metots/1.0.0": {
+        "runtime": {
+          "diziler-array-sinifi-metots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diziler-array-sinifi-metots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

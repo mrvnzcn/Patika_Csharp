@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\bin\Debug\net7.0\diziler-array-sinifi-metots.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\bin\Debug\net7.0\diziler-array-sinifi-metots.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\bin\Debug\net7.0\diziler-array-sinifi-metots.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\bin\Debug\net7.0\diziler-array-sinifi-metots.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\bin\Debug\net7.0\diziler-array-sinifi-metots.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\refint\diziler-array-sinifi-metots.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\diziler-array-sinifi-metots.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\diziler-array-sinifi-metots\obj\Debug\net7.0\ref\diziler-array-sinifi-metots.dll
