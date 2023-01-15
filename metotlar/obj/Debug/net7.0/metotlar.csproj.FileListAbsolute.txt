@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\bin\Debug\net7.0\metotlar.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\bin\Debug\net7.0\metotlar.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\bin\Debug\net7.0\metotlar.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\bin\Debug\net7.0\metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\bin\Debug\net7.0\metotlar.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\refint\metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\metotlar.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\metotlar\obj\Debug\net7.0\ref\metotlar.dll
