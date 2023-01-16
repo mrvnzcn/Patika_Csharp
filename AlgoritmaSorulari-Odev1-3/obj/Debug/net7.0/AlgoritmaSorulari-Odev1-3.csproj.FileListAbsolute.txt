@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\bin\Debug\net7.0\AlgoritmaSorulari-Odev1-3.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\bin\Debug\net7.0\AlgoritmaSorulari-Odev1-3.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\bin\Debug\net7.0\AlgoritmaSorulari-Odev1-3.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\bin\Debug\net7.0\AlgoritmaSorulari-Odev1-3.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\bin\Debug\net7.0\AlgoritmaSorulari-Odev1-3.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\refint\AlgoritmaSorulari-Odev1-3.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\AlgoritmaSorulari-Odev1-3.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\AlgoritmaSorulari-Odev1-3\obj\Debug\net7.0\ref\AlgoritmaSorulari-Odev1-3.dll
