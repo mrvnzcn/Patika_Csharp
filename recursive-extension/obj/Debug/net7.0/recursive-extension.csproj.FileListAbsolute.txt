@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\bin\Debug\net7.0\recursive-extension.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\bin\Debug\net7.0\recursive-extension.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\bin\Debug\net7.0\recursive-extension.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\bin\Debug\net7.0\recursive-extension.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\bin\Debug\net7.0\recursive-extension.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\refint\recursive-extension.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\recursive-extension.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\recursive-extension\obj\Debug\net7.0\ref\recursive-extension.dll
