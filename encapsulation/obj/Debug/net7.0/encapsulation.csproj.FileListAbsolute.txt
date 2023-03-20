@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
