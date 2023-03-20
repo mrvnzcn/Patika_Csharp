@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\refint\struct-kavrami.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\struct-kavrami\obj\Debug\net7.0\ref\struct-kavrami.dll
