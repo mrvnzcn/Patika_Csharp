@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\bin\Debug\net7.0\interfaces2.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\bin\Debug\net7.0\interfaces2.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\bin\Debug\net7.0\interfaces2.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\bin\Debug\net7.0\interfaces2.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\bin\Debug\net7.0\interfaces2.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\refint\interfaces2.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\interfaces2.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\interfaces2\obj\Debug\net7.0\ref\interfaces2.dll
