@@ -7,35 +7,24 @@ namespace Dikdortgen_Ornek
         static void Main(string[] args)
         {
            Dikdortgen ornek1 = new Dikdortgen();
-           ornek1.EnBoyBelirle(5,8);
-           ornek1.AlanHesapla();
-        //    ornek1.TumBilgileriYaz(); 
+           ornek1.EnBoyBelirle(5,8,"Ahmet");
+           ornek1.TumBilgileriYaz();
+
+           Dikdortgen ornek2 = new Dikdortgen();
+           ornek2.EnBoyBelirle(7,9,"Mehmet");
+           ornek2.TumBilgileriYaz();
+
+           Dikdortgen ornek3 = new Dikdortgen();
+           ornek3.EnBoyBelirle(-7,9,"Can");
+           ornek3.TumBilgileriYaz();
+
+           Dikdortgen ornek4 = new Dikdortgen();
+           ornek4.EnBoyBelirle(7,-9,"Firat");
+           ornek4.TumBilgileriYaz();
+
+
         }
     }
 
-    class Dikdortgen
-    {
-        public int En;
-        public int Boy;
-
-        public void EnBoyBelirle(int en, int boy)
-        {
-            En = en;
-            Boy = boy;
-        }
-
-        public int AlanHesapla()
-        {
-            int alan = En * Boy;
-            return alan;
-        }
-
-        public void TumBilgileriYaz()
-        {
-            Console.WriteLine("**********Dikdortgen Bilgileri*************");
-            Console.WriteLine("Dikdortgenin En(cm): {0}",En);
-            Console.WriteLine("Dikdortgenin Boy(cm): {0}",Boy);
-            Console.WriteLine("Dikdortgenin Alan(cm): {0}",AlanHesapla());
-        }
-    }
+    
 }
