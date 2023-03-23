@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\bin\Debug\net7.0\sinif-ornek-dikdortgen.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\bin\Debug\net7.0\sinif-ornek-dikdortgen.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\bin\Debug\net7.0\sinif-ornek-dikdortgen.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\bin\Debug\net7.0\sinif-ornek-dikdortgen.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\bin\Debug\net7.0\sinif-ornek-dikdortgen.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\refint\sinif-ornek-dikdortgen.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\sinif-ornek-dikdortgen.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sinif-ornek-dikdortgen\obj\Debug\net7.0\ref\sinif-ornek-dikdortgen.dll
