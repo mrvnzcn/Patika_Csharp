@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\bin\Debug\net7.0\Zaman_Ornek.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\bin\Debug\net7.0\Zaman_Ornek.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\bin\Debug\net7.0\Zaman_Ornek.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\bin\Debug\net7.0\Zaman_Ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\bin\Debug\net7.0\Zaman_Ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\refint\Zaman_Ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\Zaman_Ornek.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\Zaman_Ornek\obj\Debug\net7.0\ref\Zaman_Ornek.dll
