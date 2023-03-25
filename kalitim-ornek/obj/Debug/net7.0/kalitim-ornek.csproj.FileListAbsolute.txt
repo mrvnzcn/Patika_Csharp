@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\bin\Debug\net7.0\kalitim-ornek.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\bin\Debug\net7.0\kalitim-ornek.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\bin\Debug\net7.0\kalitim-ornek.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\bin\Debug\net7.0\kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\bin\Debug\net7.0\kalitim-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\refint\kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\kalitim-ornek.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\kalitim-ornek\obj\Debug\net7.0\ref\kalitim-ornek.dll
