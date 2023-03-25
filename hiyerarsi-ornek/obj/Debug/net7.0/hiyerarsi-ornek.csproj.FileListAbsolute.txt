@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\bin\Debug\net7.0\hiyerarsi-ornek.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\bin\Debug\net7.0\hiyerarsi-ornek.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\bin\Debug\net7.0\hiyerarsi-ornek.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\bin\Debug\net7.0\hiyerarsi-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\bin\Debug\net7.0\hiyerarsi-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\refint\hiyerarsi-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\hiyerarsi-ornek.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\hiyerarsi-ornek\obj\Debug\net7.0\ref\hiyerarsi-ornek.dll
