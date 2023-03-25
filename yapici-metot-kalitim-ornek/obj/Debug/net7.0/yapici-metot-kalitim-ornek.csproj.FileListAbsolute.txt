@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\bin\Debug\net7.0\yapici-metot-kalitim-ornek.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\bin\Debug\net7.0\yapici-metot-kalitim-ornek.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\bin\Debug\net7.0\yapici-metot-kalitim-ornek.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\bin\Debug\net7.0\yapici-metot-kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\bin\Debug\net7.0\yapici-metot-kalitim-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\refint\yapici-metot-kalitim-ornek.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\yapici-metot-kalitim-ornek.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\yapici-metot-kalitim-ornek\obj\Debug\net7.0\ref\yapici-metot-kalitim-ornek.dll
