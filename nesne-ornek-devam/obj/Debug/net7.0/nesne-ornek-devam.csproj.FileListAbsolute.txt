@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\bin\Debug\net7.0\nesne-ornek-devam.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\bin\Debug\net7.0\nesne-ornek-devam.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\bin\Debug\net7.0\nesne-ornek-devam.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\bin\Debug\net7.0\nesne-ornek-devam.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\bin\Debug\net7.0\nesne-ornek-devam.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\refint\nesne-ornek-devam.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\nesne-ornek-devam.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\nesne-ornek-devam\obj\Debug\net7.0\ref\nesne-ornek-devam.dll
