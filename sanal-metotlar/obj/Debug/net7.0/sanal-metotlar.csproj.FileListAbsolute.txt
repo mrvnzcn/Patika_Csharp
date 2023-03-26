@@ -1,0 +1,15 @@
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\bin\Debug\net7.0\sanal-metotlar.exe
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\bin\Debug\net7.0\sanal-metotlar.deps.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\bin\Debug\net7.0\sanal-metotlar.runtimeconfig.json
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\bin\Debug\net7.0\sanal-metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\bin\Debug\net7.0\sanal-metotlar.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.csproj.AssemblyReference.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.AssemblyInfoInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.AssemblyInfo.cs
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\refint\sanal-metotlar.dll
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.pdb
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\sanal-metotlar.genruntimeconfig.cache
+C:\Users\mervan.ozcan\Desktop\yol\pratikler\sanal-metotlar\obj\Debug\net7.0\ref\sanal-metotlar.dll
