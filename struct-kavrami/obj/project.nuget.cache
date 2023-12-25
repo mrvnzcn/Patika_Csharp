@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rlgBua96PdQTUA3CJPmNdyalJcSBz/Bk0TdURMuANWhmaB/fI12WvmMN9sxeVfOV9dI4QomLh+T13Rr0zDIgUw==",
+  "dgSpecHash": "SwpjZSLKy9ybKlsyE2qioKdDTDkGWSpRO3b/gWDYS5BeIDJNFDIdptfzU3aa1tFHfdbdtDPx12TUwRJeuWbbwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\struct-kavrami\\struct-kavrami.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\struct-kavrami\\struct-kavrami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

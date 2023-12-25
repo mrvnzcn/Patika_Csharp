@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wmXlZWVchydBz/OEvN2MYG43qCpWKMcTGCHelKzL0pP+gQKOJ8Zlz2EMDOEgB/rfL0edmNJaNdj+3e1cRAA+TA==",
+  "dgSpecHash": "n3udOJjm+gEHmP+Q2mpfILoGbpeeAIojqp3X7z7rxv9UhYU0Z2BbcItePcor0xJzj4MAm+ijlCV8EUF1BmMY2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\recursive-extension\\recursive-extension.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\recursive-extension\\recursive-extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

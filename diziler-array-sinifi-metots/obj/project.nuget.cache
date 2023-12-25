@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MAu5ScnOC6OyTvq9ZFz4bOksUU6gzkkTZZIMZ7pPDrpMmD6uKZiLjOFwW4xHApT4x2hzA6lvZzLBB+/v0KuQ4A==",
+  "dgSpecHash": "HVJJ1QGkhb/PaCITUH1nsr24c6Ut+++bblCfVf7UioWJnvtMdef4NBkSEOGyblMarqWOxPaHNACgrTZJ4i7jcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\diziler-array-sinifi-metots\\diziler-array-sinifi-metots.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\diziler-array-sinifi-metots\\diziler-array-sinifi-metots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

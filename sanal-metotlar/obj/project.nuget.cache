@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLUtfAQBnTPYN0VnTA+nPDaopnmuN8bgJfftizvb0HjS3QkELleeiWLpzyiccR38Lp3qWMIU4p8LLA4YPkX5wQ==",
+  "dgSpecHash": "JzyJclToXgEO5pv7GNQJBE3AYr61voJOFXK5A33bCT0KvVZaxTE/HQcaObEt3NO1biPLb438GGKBjv2XksqXng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\sanal-metotlar\\sanal-metotlar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\sanal-metotlar\\sanal-metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

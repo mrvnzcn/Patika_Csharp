@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = console_programlama
-build_property.ProjectDir = C:\Users\mervan.ozcan\Desktop\yol\pratikler\console-programlama\
+build_property.ProjectDir = C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\console-programlama\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

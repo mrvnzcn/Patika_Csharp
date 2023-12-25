@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hazir_metotlar_math_datetime
-build_property.ProjectDir = C:\Users\mervan.ozcan\Desktop\yol\pratikler\hazir-metotlar-math-datetime\
+build_property.ProjectDir = C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\hazir-metotlar-math-datetime\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

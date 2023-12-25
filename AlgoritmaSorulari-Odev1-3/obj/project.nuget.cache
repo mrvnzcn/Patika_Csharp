@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "P4AFd5zzp1X3uc38m9UnHIRzUl/DuvnQEQyRL6PjB0wcufUTv4zGgHO5Y0LFeYCmYo5TJn3PyOiYba8Un7J2pg==",
+  "dgSpecHash": "U+99fgc+x9ZfaNOkXTVV6jD3UqOP+0NiLDAK93LGwZhuIjmxYib495tpDRrHyKP72nrWi9G/FjotlUgR/938oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\AlgoritmaSorulari-Odev1-3\\AlgoritmaSorulari-Odev1-3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\AlgoritmaSorulari-Odev1-3\\AlgoritmaSorulari-Odev1-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

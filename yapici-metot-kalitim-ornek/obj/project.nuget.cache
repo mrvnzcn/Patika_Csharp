@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hvdM8uuiNNz1zksYM+k3cmXlqYfsB9JJDCGMPpxWAVwItZYI5gPlP2lqJ6ry9+5d/MSwOEWWsA6DDrhB8b+7Zw==",
+  "dgSpecHash": "Yu26rrJbYOPCADoji2CHzXEMw9hCBo6v81ZUK0JkCYowjjTKhRbWtlwyD6talTp5tiVqHhy0+v7LNGR/7xgF2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\yapici-metot-kalitim-ornek\\yapici-metot-kalitim-ornek.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\yapici-metot-kalitim-ornek\\yapici-metot-kalitim-ornek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

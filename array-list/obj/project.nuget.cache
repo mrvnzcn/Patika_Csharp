@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4YpHtndRxbaKhvcxt2EE76d8n5uPHk3pH75qGk0bLDyM+6fsVgy81McqqRkAVyEYAwf7/HZmGRXRRkaz8K8iMg==",
+  "dgSpecHash": "3V1V6aXJHqWil5LdkQR+GSgEsRhrlOksf7J8ypF/ElhPOoVj4mv8GnW/zg1+XTyoXU5N2STGUogrFWbaWgaG7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mervan.ozcan\\Desktop\\yol\\pratikler\\array-list\\array-list.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gs_me\\OneDrive\\Masaüstü\\Patika\\Patika_Csharp\\array-list\\array-list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gs_me\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
