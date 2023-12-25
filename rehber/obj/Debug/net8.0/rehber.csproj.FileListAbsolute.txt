@@ -1,0 +1,15 @@
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\bin\Debug\net8.0\rehber.exe
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\bin\Debug\net8.0\rehber.deps.json
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\bin\Debug\net8.0\rehber.runtimeconfig.json
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\bin\Debug\net8.0\rehber.dll
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\bin\Debug\net8.0\rehber.pdb
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.AssemblyInfoInputs.cache
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.AssemblyInfo.cs
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.csproj.CoreCompileInputs.cache
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.sourcelink.json
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.dll
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\refint\rehber.dll
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.pdb
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\rehber.genruntimeconfig.cache
+C:\Users\gs_me\OneDrive\Masaüstü\Patika\Patika_Csharp\rehber\obj\Debug\net8.0\ref\rehber.dll
